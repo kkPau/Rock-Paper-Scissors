@@ -1,0 +1,15 @@
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/bin/Debug/net6.0/Rock Paper Scissors
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/bin/Debug/net6.0/Rock Paper Scissors.deps.json
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/bin/Debug/net6.0/Rock Paper Scissors.runtimeconfig.json
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/bin/Debug/net6.0/Rock Paper Scissors.dll
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/bin/Debug/net6.0/Rock Paper Scissors.pdb
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/Rock Paper Scissors.csproj.AssemblyReference.cache
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/Rock Paper Scissors.AssemblyInfoInputs.cache
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/Rock Paper Scissors.AssemblyInfo.cs
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/Rock Paper Scissors.csproj.CoreCompileInputs.cache
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/Rock Paper Scissors.dll
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/refint/Rock Paper Scissors.dll
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/Rock Paper Scissors.pdb
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/Rock Paper Scissors.genruntimeconfig.cache
+/Users/kwadwo/Development/C#/Rock Paper Scissors/Rock Paper Scissors/obj/Debug/net6.0/ref/Rock Paper Scissors.dll
